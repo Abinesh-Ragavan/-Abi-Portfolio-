@@ -1,7 +1,7 @@
 # 🔥Build a Stunning Fashion Studio Website with React JS [ Locomotive Scroll + GSAP + Framer Motion ]
 
 
-
+WEBSITE URL=(https://abi-portfolio-94434.web.app/)
 This repository contains starter code for Fashion Studio Website in ReactJS. <br />
 
 
